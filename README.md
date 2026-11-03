@@ -1,2 +1,2 @@
 # Implementing-defence-in-depth-using-suricata-protocols
-in this repository i will be teaching you all how we observe network traffics and how to set a rule which we cyber experts love to refer to as protocols this protocols helps as a filter for both incoming and outgoing data packetsfollow me carefully as you experience defence in depth practicalized
+in this repository i will be teaching you all how we observe network traffics and how to set a rule which we cyber experts love to refer to as protocols this protocols helps as a filter for both incoming and outgoing data packetsfollow me carefully as you experience defence in depth practicalized this iis one of the tools for intrusion detection,prevention and network monitoring
