@@ -1,0 +1,32 @@
+﻿# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.log
+
+# Large or sensitive captures
+*.pcap
+*.pcapng
+
+# Local environment files
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Do not ignore genuine evidence screenshots.
